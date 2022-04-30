@@ -1,33 +1,70 @@
 {
   "project_info": {
-    "project_number": "231406139043",
-    "project_id": "payflow-4749b",
-    "storage_bucket": "payflow-4749b.appspot.com"
+    "project_number": "978450108792",
+    "project_id": "playflow-d488e",
+    "storage_bucket": "playflow-d488e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:231406139043:android:b550add0ea869b1ce33116",
+        "mobilesdk_app_id": "1:978450108792:android:0e855960a947979907b88d",
         "android_client_info": {
-          "package_name": "com.oqnunes.payflow"
+          "package_name": "com.example.payflow"
         }
       },
       "oauth_client": [
         {
-          "client_id": "231406139043-eeikgde8vhc0n8hvm5lmavvque7ccl2f.apps.googleusercontent.com",
+          "client_id": "978450108792-pl9c6akq574p3cih7j540kaifpcl8iv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "ed29c90e19006b1a936cb8f737fe7e04b4187a12"
+          }
+        },
+        {
+          "client_id": "978450108792-m4dcnfuejj7gucj2cvlcr7kbiqbetl40.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAybGMy9DpukfqVfXpSGhWQK4p83iMXLHM"
+          "current_key": "AIzaSyBpstnhfnVb5SlTn-3yK-nP67Xz9b4U0_0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "231406139043-eeikgde8vhc0n8hvm5lmavvque7ccl2f.apps.googleusercontent.com",
+              "client_id": "978450108792-m4dcnfuejj7gucj2cvlcr7kbiqbetl40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978450108792:android:39c7b362262be36307b88d",
+        "android_client_info": {
+          "package_name": "com.oqnunes.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978450108792-m4dcnfuejj7gucj2cvlcr7kbiqbetl40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpstnhfnVb5SlTn-3yK-nP67Xz9b4U0_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978450108792-m4dcnfuejj7gucj2cvlcr7kbiqbetl40.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
